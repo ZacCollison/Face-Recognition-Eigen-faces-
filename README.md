@@ -1,4 +1,4 @@
-# Face-Recognition-Eigen-faces-
+# Face Recognition using linear algebra
 This project's aim was to develop a basic face recognition system using fundamental applications of linear algebra and coding practices to identify variances in faces. I aim to further refine the code to this project in the future.
 
 # How to operate
